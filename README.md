@@ -12,3 +12,7 @@
 - Description: Deeper EDA – age group breakdown, stacked bar and boxplots, chest pain types, and richer interpretations.
 
 *Explore both to see my analytical process and exploration depth!*
+
+!![Screenshot 2025-05-18 211227](https://github.com/user-attachments/assets/83e9a6cf-fded-478c-833b-c7306f96da7e)
+
+
