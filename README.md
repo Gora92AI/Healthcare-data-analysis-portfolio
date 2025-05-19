@@ -13,7 +13,8 @@
 
 *Explore both to see my analytical process and exploration depth!*
 
-!![Screenshot 2025-05-18 211227](https://github.com/user-attachments/assets/83e9a6cf-fded-478c-833b-c7306f96da7e)
+![image](https://github.com/user-attachments/assets/795f7fd2-8b52-4d03-9e87-1c999979a348)
+
 ![image](https://github.com/user-attachments/assets/15ac3156-2dc8-4333-96b0-a977e4d11332)
 
 
